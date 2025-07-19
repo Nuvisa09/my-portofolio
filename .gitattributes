@@ -1,0 +1,11 @@
+# Gunakan LF untuk semua file teks
+* text=auto eol=lf
+
+# Secara eksplisit untuk beberapa file
+*.js   text eol=lf
+*.ts   text eol=lf
+*.tsx  text eol=lf
+*.jsx  text eol=lf
+*.css  text eol=lf
+*.html text eol=lf
+*.md   text eol=lf
