@@ -11,7 +11,7 @@ export default function Header() {
           <Link href="/proyek" className="hover:text-slate-300">
             Proyek
           </Link>
-          <Link href="/proyek" className="hover:text-slate-300">
+          <Link href="/kontak" className="hover:text-slate-300">
             Kontak
           </Link>
         </div>
